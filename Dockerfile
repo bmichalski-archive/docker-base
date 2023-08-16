@@ -19,4 +19,3 @@ RUN \
   apt-get update
 
 CMD bash
-
